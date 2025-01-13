@@ -1,7 +1,7 @@
 {
   "name": "2025-01-13",
   "version": "1.0.0",
-  "main": "calcaluator.js",
+  "main": "calculator.js",
   "scripts": {
     "test": "jest"
   },
